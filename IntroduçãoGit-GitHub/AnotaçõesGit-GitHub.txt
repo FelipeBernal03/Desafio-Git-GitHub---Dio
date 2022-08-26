@@ -1,0 +1,36 @@
+Windows
+
+abrir terminal -> cmd
+
+dir - listar pastas
+cd / - navegar p/ local específico
+cd Windows - entrar na pasta "Windows"
+cd .. - retroceder um  nível
+cls - limpar tela
+TAB - auto completa
+mkdir + (nome da pasta) - criar pasta
+del - deleta arquivos
+rmdir + (nome da pasta) - remover repositório
+
+---------------------//-----------------------
+
+Funcionamento do Git
+
+SHA1 - algoritmo de encriptação (Algoritmo de Hash Seguro). Essa encriptação gera um conjunto de characteres identificador de 40 dígitos (UNÍCO) que servem como uma identificação.
+	openssl sha1 (nome do arquivo - ex: texto.txt)
+
+
+Objetos fundamentais - blobs, trees, commits
+
+	BLOBS - contém metatados do git (tipo do objeto, tamanho da string, tamanho do arquivo...)
+
+	TREE - ( árvores) armazena blobs 
+
+	COMITS - objeto que dá sentido para a alteração 
+
+
+---------------------//-----------------------
+
+
+
+	
